@@ -1,2 +1,2 @@
 # samaple-repo
-GIt training
+Git training
